@@ -1,4 +1,4 @@
-# Points and Reward Management System
+# Points and Reward DBMS
 
 A comprehensive **Points and Reward Database Management System (DBMS)** developed for **The Foodie**, a fast-food brand under the Grand Wooly conglomerate. This system is designed to enhance customer loyalty by providing an engaging platform for managing point-based transactions, membership tiers, and reward redemptions through both mobile and web platforms.
 
